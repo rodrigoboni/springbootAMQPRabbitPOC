@@ -12,6 +12,9 @@ POC for Spring boot AMQP messaging with RabbitMQ
 * Page for sending messages: http://localhost:8080/
 * Page for received messages: http://localhost:8080/orders
 
+# AMQP / RabbitMQ concepts
+* https://www.rabbitmq.com/tutorials/amqp-concepts.html
+
 # References
 * https://sivalabs.in/2018/02/springboot-messaging-rabbitmq/
 * https://www.e4developer.com/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/
